@@ -9,9 +9,9 @@ The app has following functionalities:
 
 The app is made in NodeJS, using the ExpressJS framework, and uses the mongo as the database.
 
-#Home page
+# Home page
 ![alt text](https://raw.githubusercontent.com/kt849/myBlogApp/master/blogApp1.png)
-#Forest Blog
+# Forest Blog
 ![alt text](https://raw.githubusercontent.com/kt849/myBlogApp/master/blogApp2.png)
 
 ## Usage
